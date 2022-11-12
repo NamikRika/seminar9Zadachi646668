@@ -1,0 +1,15 @@
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\bin\Debug\net6.0\SeminarCsharp9.exe
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\bin\Debug\net6.0\SeminarCsharp9.deps.json
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\bin\Debug\net6.0\SeminarCsharp9.runtimeconfig.json
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\bin\Debug\net6.0\SeminarCsharp9.dll
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\bin\Debug\net6.0\ref\SeminarCsharp9.dll
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\bin\Debug\net6.0\SeminarCsharp9.pdb
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\SeminarCsharp9.csproj.AssemblyReference.cache
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\SeminarCsharp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\SeminarCsharp9.AssemblyInfoInputs.cache
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\SeminarCsharp9.AssemblyInfo.cs
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\SeminarCsharp9.csproj.CoreCompileInputs.cache
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\SeminarCsharp9.dll
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\ref\SeminarCsharp9.dll
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\SeminarCsharp9.pdb
+C:\Users\Namik\Documents\Csharp\SeminarCsharp9\obj\Debug\net6.0\SeminarCsharp9.genruntimeconfig.cache
