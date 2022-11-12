@@ -29,8 +29,18 @@
 // //---Задача 64 ------Завершена---------
 
 
+// Задача 66: 
+// Задайте значения M и N. Напишите программу, 
+// которая найдёт сумму натуральных элементов в промежутке от M до N.
+// M = 1; N = 15 -> 120
+// M = 4; N = 8. -> 30
 
-// // Задача 66
+// //---Решение Задачи 66 ---------------
+
+// Console.WriteLine("Задача 66: \n Задайте значения M и N. Напишите программу, которая \n" + 
+//                   " найдёт сумму натуральных элементов в промежутке от M до N. \n");
+
+
 // int sumNaturalElements(int numberM, int numberN, int summ)
 // {
 
@@ -43,8 +53,17 @@
 //      return summ;
       
 // }    
-//  //sumNaturalElements(4, 8);
-//  Console.Write(sumNaturalElements(1, 15, 0));
+
+// Console.Write("Введите число M: ");
+// int numberM = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите число N: ");
+// int numberN = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine();
+// Console.Write("Cумма натуральных элементов в промежутке от " + numberM + " до "  + numberN + " равна ");
+// Console.Write(sumNaturalElements(numberM, numberN, 0));
+
+// //---Задачи 66 ---Завершена------------
 
 // ---Задача 68
 
